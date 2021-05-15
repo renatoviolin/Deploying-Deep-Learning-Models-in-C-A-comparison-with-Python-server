@@ -1,4 +1,4 @@
-# Deploying Deep Learning Models in C++: A comparison with Python server
+# Deploying Deep Learning Models in C++: comparison with Python server
 
 This repository show the code to deploy a deep learning model serialized and running in C++ backend.
 
