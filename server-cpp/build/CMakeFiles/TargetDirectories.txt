@@ -1,0 +1,3 @@
+/Users/renato/Desktop/python-cpp-comparison/server-cpp/build/CMakeFiles/rebuild_cache.dir
+/Users/renato/Desktop/python-cpp-comparison/server-cpp/build/CMakeFiles/edit_cache.dir
+/Users/renato/Desktop/python-cpp-comparison/server-cpp/build/CMakeFiles/server-cpp.dir
