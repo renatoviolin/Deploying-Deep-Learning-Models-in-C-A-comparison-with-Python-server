@@ -35,7 +35,7 @@ To deploy the model in C++ it was used the same serialized model used in JIT run
 
 - [server-cpp/server.cpp](server-cpp/server.cpp): Code to generate the c++ application that load the model and start the http server on port 8000.
 
-Deploy a model in C++ is not as straightforward as it is in Python. Check the [lib](server-cpp/lib) folder for more details about the codes used.
+Deploy a model in C++ is not as straightforward as it is in Python. Check the [libs](server-cpp/libs) folder for more details about the codes used.
 
 ## Client details
 Client uses async and multi-thread to perform as many requests as possible in parallel. See the [test_api.py](test_api.py)
